@@ -1,0 +1,6 @@
+chainlit
+python-dotenv
+ipykernel
+langchain_groq
+#pydantic==2.10.1 #default installation pydantic==2.10.3 but it gives error.then install 2.10.1
+# -e .
